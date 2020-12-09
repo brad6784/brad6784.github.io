@@ -18,8 +18,8 @@ body{
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 1;
+    padding: 1;
     overflow: hidden;
     background-color: blue;
     outline-color:red;
