@@ -1,6 +1,7 @@
 h1 {
     color: red;
     font-size:60px;
+    font-style:fantasy;
 
 
 }
@@ -8,6 +9,7 @@ h1 {
 p{
     color: lightblue;
     font-size:40px;
+    font-style:fantasy;
 
 }
 body{
