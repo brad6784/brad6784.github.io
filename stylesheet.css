@@ -15,3 +15,12 @@ p{
 body{
     background-color:black;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+    outline-color:red;
+  }
