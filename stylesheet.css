@@ -18,14 +18,10 @@ body{
 
 a {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 2;
+    padding: 2;
     overflow: hidden;
     font-size:20;
-    color:red;
-  }
-  a{
-      color:red;
-
-
+    color:black;
+    background-color: red;
   }
