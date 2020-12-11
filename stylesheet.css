@@ -21,7 +21,11 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: blue;
     font-size:20;
-    color:red;
+    font:red;
+  }
+  li{
+      color:red;
+
+
   }
