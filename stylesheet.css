@@ -16,13 +16,13 @@ body{
     background-color:black;
 }
 
-ul {
+a {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     font-size:20;
-    font:red;
+    color:red;
   }
   a{
       color:red;
