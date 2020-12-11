@@ -1,5 +1,5 @@
 h1 {
-    color: purple;
+    color: red;
     font-size:60px;
     font-style:fantasy;
 
@@ -7,7 +7,7 @@ h1 {
 }
 
 p{
-    color: lightblue;
+    color: red;
     font-size:40px;
     font-style:fantasy;
 
@@ -22,6 +22,6 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: blue;
-    outline-color:red;
-    color:purple;
+    font-size:20;
+    color:red;
   }
