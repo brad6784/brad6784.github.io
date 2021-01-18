@@ -6,6 +6,11 @@ h1 {
 
 
 }
+h2{
+    color:red;
+    font-size:40px;
+    font-family: fantasy;
+}
 
 p{
     color: red;
