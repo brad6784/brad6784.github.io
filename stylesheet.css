@@ -1,7 +1,7 @@
 h1 {
     color: red;
     font-size:60px;
-    font-style:fantasy;
+    font-family: fantasy;
     text-align: center;
 
 
@@ -10,7 +10,7 @@ h1 {
 p{
     color: red;
     font-size:40px;
-    font-style:fantasy;
+    font-family:fantasy;
     text-align: center;
 
 }
@@ -18,14 +18,30 @@ body{
     background-color:black;
 }
 
-a {
+a{
     list-style-type: none;
     margin: 2;
     padding: 2;
     overflow: hidden;
-    font-size:30;
+    font-size:40;
     color:black;
-    background-color: red;
-    font-style:fantasy;
+    color: red;
+    font-family:fantasy;
+    
     
   }
+  li{
+    float: left;
+    border-right:1px solid red;
+    border-left:1px solid red;
+    
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    outline-color:red;
+  }
+
